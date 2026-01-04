@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Junk Corner On My Mind",
+  "base_artist": "Massage Attack",
+  "createdAt": "2026-01-04T07:20:10.514099Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Junk Corner On My Mind",
+      "artist": "Massage Attack",
+      "has_synced": false,
+      "path": "select/pl_01_Junk_Corner_On_My_Mind_Massage_Attack.txt"
+    }
+  ]
+}
